@@ -20,3 +20,7 @@
 This Celebration Symphony is more than just a birthday card; it's a repository of memories and a testament to shared adventures and cherished moments. Fork the repository, contribute your part to the symphony, and let the birthday celebration begin in code and camaraderie!
 
 🎁🎈 Happy Birthday to your incredible best friend! 🎈🎁
+
+![Screenshot (205)](https://github.com/tamzzay/Celebration-Symphony-A-Melody-of-Joy/assets/130298353/3e6c5a16-2c63-45b1-b68b-65ba917ae263)
+![Screenshot (206)](https://github.com/tamzzay/Celebration-Symphony-A-Melody-of-Joy/assets/130298353/b2998931-1839-4838-8f5d-4de43f8f578c)
+
