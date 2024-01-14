@@ -21,5 +21,8 @@ This Celebration Symphony is more than just a birthday card; it's a repository o
 
 🎁🎈 Happy Birthday to your incredible best friend! 🎈🎁
 
+![Front](https://github.com/tamzzay/Celebration-Symphony-A-Melody-of-Joy/assets/130298353/1fce88e1-f380-4f99-862f-318c004d9eb8)
+![Inside](https://github.com/tamzzay/Celebration-Symphony-A-Melody-of-Joy/assets/130298353/e31fce54-09a3-42c5-ac1b-bf92e23c3de4)
+
 
 
